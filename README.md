@@ -22,11 +22,25 @@ Desarrollar un prototipo educativo de escalera eléctrica a escala, controlado m
 
 ## 🧪 Prototipo
 
+Este es el circuito que se va a utilizar para el proyecto, en las imagenes se puede evidenciar la conexión de los materiales a utilizar, y el uso que se le da al sensor TCS230, escaneando los diferentes colores, dependiendo de estos la velocidad del motor paso a paso, y por lo tanto de la escalera.
+
 <img width="400" height="560" alt="image" src="https://github.com/user-attachments/assets/55a8d287-a424-4374-aa41-fe03657d5ac1" />
 <img width="400" height="560" alt="image" src="https://github.com/user-attachments/assets/1f8e7d55-37ee-4542-b0b7-64b6b21c7fd1" />
 
 
 ## 📸 Imágenes 
+
+A continuación se encuentra una imagén con todos los materiales que se van utilizar, los cuales van a ser utilizados a continuación.
+
+Lista de materiales:
+- ESP32
+- Sensor PIR
+- Sensor de Color
+- Motor paso a paso
+- Driver ULN2003
+- 20 Jumpers macho - macho
+- 20 Jumpers macho - hembra
+- Protoboard
 
 <img width="1280" height="537" alt="image" src="https://github.com/user-attachments/assets/8e1c1828-1e6c-4fe4-abf5-ec1eaa6f34f6" />
 <img width="400" height="480" alt="image" src="https://github.com/user-attachments/assets/db6c7507-217e-4ba3-acca-d60c8f5e1084" />
