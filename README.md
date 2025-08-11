@@ -11,7 +11,7 @@ Es importante porque ofrece una herramienta didáctica e interactiva que conecta
 Desarrollar un prototipo educativo de escalera eléctrica a escala, controlado mediante un microcontrolador ESP32 y sensores, con conexión a una aplicación móvil, para facilitar la enseñanza de conceptos mecánicos, electrónicos y de programación.
 
 - Qué problema busca resolver: La brecha entre la teoría y la práctica en la educación técnica, donde los estudiantes muchas veces carecen de herramientas interactivas para aplicar de una manera didáctica e interesante lo aprendido en el aula.
-- A qué público está dirigido: Estudiantes y docentes de educación técnica, princiapalmente de las áreas de Sistemas y diseño, sin embargo es útil para cualquier persona que quiera aprender de automatización, electrónica, diseño mecánico e IoT
+- A qué público está dirigido: Estudiantes y docentes de educación técnica, princiapalmente de las áreas de Sistemas y diseño, sin embargo es útil para cualquier persona que quiera aprender e interactuar acerda de temas como automatización, electrónica, diseño mecánico e IoT
 - Qué lo hace diferente o especial:
   
     - Integra mecánica, electrónica, programación y control remoto en un solo prototipo.
