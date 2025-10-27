@@ -87,6 +87,7 @@ Facilita el montaje y la organización del circuito sin necesidad de soldar los 
 ### App Blynk IoT
 <img width="293" height="112" alt="image" src="https://github.com/user-attachments/assets/b3f12725-6dcb-4b75-b3ed-56f2306f732e" />
 
+Incorpora las funciones de un control remoto para la escalera mediante una app móvil.
 
 ---
 
