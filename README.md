@@ -52,23 +52,37 @@ Lista de materiales:
 ### ESP32 
 <img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/fe87a1e4-5185-4a34-9f49-e412cf9972a9" />
 
+Es el microcontrolador principal del proyecto; coordina todos los sensores, controla el motor y se comunica con la aplicación Blynk mediante Wi-Fi.
+
 ### Sensor PIR (HC-SR501)
 <img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/83fc3004-2e9a-472e-a379-b491bd7d3c9d" />
+
+Detecta el movimiento de personas cercanas para encender automáticamente la escalera eléctrica cuando alguien se aproxima.
 
 ### Sensor de Color TCS230
 <img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/bcd39a55-4795-47aa-b392-5d25b82ba45c" />
 
+Identifica el color del objeto frente a él, permitiendo ajustar la velocidad de la escalera según el perfil detectado.
+
 ### Motor Paso a Paso 28BYJ-48
 <img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/747740f0-6022-4ed9-89c3-f3e575fcb6cf" />
+
+Genera el movimiento controlado y preciso que simula el funcionamiento de la escalera eléctrica.
 
 ### Driver ULN2003
 <img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/73bfbf8a-37bc-4b18-987b-30dbe0ea5bc0" />
 
+Actúa como interfaz entre el ESP32 y el motor paso a paso, amplificando la corriente necesaria para su funcionamiento.
+
 ### Jumpers
 <img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/46293e44-4acb-4ebf-9e99-c2ed2c7859c9" />
 
+Permiten realizar las conexiones eléctricas entre los componentes del circuito de forma rápida y segura.
+
 ### Protoboard
 <img width="480" height="330" alt="image" src="https://github.com/user-attachments/assets/86a6eee8-27e9-4d29-a550-5564176fbbc7" />
+
+Facilita el montaje y la organización del circuito sin necesidad de soldar los componentes.
 
 ### App Blynk IoT
 <img width="293" height="112" alt="image" src="https://github.com/user-attachments/assets/b3f12725-6dcb-4b75-b3ed-56f2306f732e" />
