@@ -1,7 +1,7 @@
 # 🚀 Escalera eléctrica a escala: Automatización, control y simulación de perfiles mediante ESP32
 
 
-> El proyecto consiste en el desarrollo de un prototipo funcional de una escalera eléctrica a escala. Está orientado a estudiantes de educación técnica para enseñar de manera práctica los principios de automatización, electrónica, mecánica y programación.
+> Nuestro proyecto consiste en el desarrollo de un modelo funcional de una escalera eléctrica a escala. Está orientado a estudiantes de educación técnica para enseñar de manera práctica los principios de automatización, electrónica, mecánica y programación.
 Es importante porque ofrece una herramienta didáctica e interactiva que conecta la teoría con la práctica, favoreciendo el aprendizaje en áreas de Sistemas y Diseño, así como su uso en tecnologías IoT.
 
 ---
